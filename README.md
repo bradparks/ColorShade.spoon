@@ -5,6 +5,9 @@
 - Allows you to save your current settings as a layout.
 - Provides a chooser dialog to easily search for and apply configurations.
 
+### Demo
+![Sample](sample.gif)
+
 ### How to install
 - Download the [ColorShade.spoon](https://github.com/bradparks/ColorShade.spoon/blob/main/ColorShade.spoon?raw=true) file, and double click on it.
 
@@ -24,9 +27,6 @@ hs.loadSpoon("ColorShade")
 spoon.ColorShade:bindHotkeys({ chooseShade = {{"cmd","shift"}, "d"} })
 ```
 
-### Demo
-![Sample](sample.gif)
-
-### Info
+### Additional info
 - License MIT
 - [Based on the Shade Spoon](https://github.com/Hammerspoon/Spoons/blob/master/Source/Shade.spoon/)
