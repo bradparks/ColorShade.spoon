@@ -22,3 +22,7 @@ spoon.ColorShade:bindHotkeys({ chooseShade = {{"cmd","shift"}, "d"} })
 
 ### Demo
 ![Sample](sample.gif)
+
+### Info
+- License MIT
+- [Based on the Shade Spoon](https://github.com/Hammerspoon/Spoons/blob/master/Source/Shade.spoon/)
