@@ -1,5 +1,9 @@
 # ColorShade.spoon
-A [Hammerspoon](https://www.hammerspoon.org/) extension that lets you apply a semitransparent colored overlay on all monitors
+- A [Hammerspoon](https://www.hammerspoon.org/) extension that lets you apply a semitransparent colored overlay on all monitors. 
+- It's kind of like a better version of the Mac's Night Shift feature, with colors!
+- Supports setting both transparency and color per monitor, or for all monitors.
+- Allows you to save your current settings as a layout.
+- Provides a chooser dialog to easily search for and apply configurations.
 
 ### How to install
 - Download the [ColorShade.spoon](https://github.com/bradparks/ColorShade.spoon/blob/main/ColorShade.spoon?raw=true) file, and double click on it.
