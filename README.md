@@ -2,7 +2,7 @@
 A HammerSpoon extension that lets you apply a semitransparent colored overlay on all monitors
 
 ### How to install
-- Download the [ColorShade.spoon] file, and double click on it.
+- Download the [ColorShade.spoon](https://github.com/bradparks/ColorShade.spoon/blob/main/ColorShade.spoon?raw=true) file, and double click on it.
 
 ### How to install from source
 - Clone repo to your hammerspoon spoons folder
