@@ -1,0 +1,85 @@
+[
+  {
+    "Command": [],
+    "Constant": [],
+    "Constructor": [],
+    "Deprecated": [],
+    "Field": [],
+    "Function": [
+      {
+        "def": "ColorShade:chooseShade()",
+        "desc": "Shows the ColorShade chooser interface",
+        "doc": "Shows the ColorShade chooser interface\n\nParameters:\n * None\n\nReturns:\n * None",
+        "name": "chooseShade",
+        "parameters": [
+          " * None"
+        ],
+        "returns": [
+          " * None"
+        ],
+        "signature": "ColorShade:chooseShade()",
+        "stripped_doc": "",
+        "type": "Function"
+      }
+    ],
+    "Method": [
+      {
+        "def": "ColorShade:bindHotkeys(map)",
+        "desc": "Binds hotkeys for ColorShade",
+        "doc": "Binds hotkeys for ColorShade\n\nParameters:\n * map - A table containing hotkey modifier/key details for the following item:\n  * chooseShade - Shows the ColorShade chooser interface\nE.g.: { chooseShade = {\"cmd\",\"alt\",\"ctrl\"},\"s\" }\n\nReturns:\n * None",
+        "name": "bindHotkeys",
+        "parameters": [
+          " * map - A table containing hotkey modifier/key details for the following item:",
+          "  * chooseShade - Shows the ColorShade chooser interface",
+          "E.g.: { chooseShade = {\"cmd\",\"alt\",\"ctrl\"},\"s\" }"
+        ],
+        "returns": [
+          " * None"
+        ],
+        "signature": "ColorShade:bindHotkeys(map)",
+        "stripped_doc": "",
+        "type": "Method"
+      }
+    ],
+    "desc": "Creates a semitransparent overlay for each monitor, to reduce screen brightness, optionally tinted with a color.",
+    "doc": "Creates a semitransparent overlay for each monitor, to reduce screen brightness, optionally tinted with a color.\n\n",
+    "items": [
+      {
+        "def": "ColorShade:bindHotkeys(map)",
+        "desc": "Binds hotkeys for ColorShade",
+        "doc": "Binds hotkeys for ColorShade\n\nParameters:\n * map - A table containing hotkey modifier/key details for the following item:\n  * chooseShade - Shows the ColorShade chooser interface\nE.g.: { chooseShade = {\"cmd\",\"alt\",\"ctrl\"},\"s\" }\n\nReturns:\n * None",
+        "name": "bindHotkeys",
+        "parameters": [
+          " * map - A table containing hotkey modifier/key details for the following item:",
+          "  * chooseShade - Shows the ColorShade chooser interface",
+          "E.g.: { chooseShade = {\"cmd\",\"alt\",\"ctrl\"},\"s\" }"
+        ],
+        "returns": [
+          " * None"
+        ],
+        "signature": "ColorShade:bindHotkeys(map)",
+        "stripped_doc": "",
+        "type": "Method"
+      },
+      {
+        "def": "ColorShade:chooseShade()",
+        "desc": "Shows the ColorShade chooser interface",
+        "doc": "Shows the ColorShade chooser interface\n\nParameters:\n * None\n\nReturns:\n * None",
+        "name": "chooseShade",
+        "parameters": [
+          " * None"
+        ],
+        "returns": [
+          " * None"
+        ],
+        "signature": "ColorShade:chooseShade()",
+        "stripped_doc": "",
+        "type": "Function"
+      }
+    ],
+    "name": "ColorShade",
+    "stripped_doc": "",
+    "submodules": [],
+    "type": "Module"
+  }
+]
