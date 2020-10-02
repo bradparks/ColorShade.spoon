@@ -12,7 +12,8 @@ $ cd ~/.hammerspoon/Spoons/
 $ git clone https://github.com/bradparks/ColorShade.spoon.git 
 ```
 
-- Load it in your `~/.hammerspoon/init.lua`
+### How to add it to your Hammerspoon configuation 
+- Add the following to your `~/.hammerspoon/init.lua`
 
 ```
 hs.loadSpoon("ColorShade")
